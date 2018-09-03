@@ -2,6 +2,7 @@
 def muestra(a):
     print(a)
 
+def suma(a, b):
+    muestra(a+b)
 
-var = "esta es una prueba de que puedo hacer andar bien el git"
-muestra(var)
+suma(3, 5)
