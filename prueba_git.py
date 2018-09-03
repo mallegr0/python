@@ -2,5 +2,5 @@
 def muestra(a):
     print(a)
 
-
-muestra("hola mundo")
+var = "esta es una prueba de que puedo hacer andar bien el git"
+muestra(var)
